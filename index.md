@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my super blog
 ---
-
+author: Me again
+description: Text or mistake
